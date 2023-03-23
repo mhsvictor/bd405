@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T14:38:07.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="4V3RNKWgSvW7q1O9zSdl" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-23T14:41:50.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="qYci8fETgTiKjHDEBHXm" version="21.0.10" type="github" pages="2">
   <diagram name="enntidad relacion" id="T_VVyUdc56Ve-9aa7WN1">
     <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="WN1AvgcFRPcrMHn4_S1V-12" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="260" y="335" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
