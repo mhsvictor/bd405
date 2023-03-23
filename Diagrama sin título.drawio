@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T14:32:24.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="oumU-sQ3-HTDYOuKR1lp" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-23T14:34:25.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="TXlYFr_PV3DLua9L4GNK" version="21.0.10" type="github" pages="2">
   <diagram name="enntidad relacion" id="T_VVyUdc56Ve-9aa7WN1">
     <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,28 +10,28 @@
         <mxCell id="WN1AvgcFRPcrMHn4_S1V-3" value="id_usuarrio" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-4" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-4" value="telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-5" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-5" value="email" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="314" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-6" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-6" value="pasword" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-7" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-7" value="id_plantel" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-8" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-8" value="id_tusuario" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-9" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-9" value="apaterno" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-10" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-10" value="apaterno" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN1AvgcFRPcrMHn4_S1V-11" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-11" value="amaterno" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="314" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
