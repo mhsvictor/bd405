@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T15:09:10.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="ij53TX5rWWc6bK7vYvBD" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-23T15:10:41.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="-TvGnSJxXjXejggpFccv" version="21.0.10" type="github" pages="2">
   <diagram name="enntidad relacion" id="T_VVyUdc56Ve-9aa7WN1">
     <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,29 @@
         </mxCell>
         <mxCell id="WN1AvgcFRPcrMHn4_S1V-44" value="direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN1AvgcFRPcrMHn4_S1V-48" target="WN1AvgcFRPcrMHn4_S1V-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="810" />
+              <mxPoint x="565" y="810" />
+              <mxPoint x="565" y="920" />
+              <mxPoint x="440" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN1AvgcFRPcrMHn4_S1V-48" target="WN1AvgcFRPcrMHn4_S1V-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="520" />
+              <mxPoint x="420" y="520" />
+              <mxPoint x="420" y="410" />
+              <mxPoint x="410" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-48" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
