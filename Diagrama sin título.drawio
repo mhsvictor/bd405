@@ -1,12 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T13:56:40.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="YL49R8MDsk1I18YChr-x" version="21.0.10" type="github">
-  <diagram name="Página-1" id="T_VVyUdc56Ve-9aa7WN1">
+<mxfile host="app.diagrams.net" modified="2023-03-23T14:31:03.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="cZouSuC6vLloCPZUkS4-" version="21.0.10" type="github" pages="2">
+  <diagram name="enntidad relacion" id="T_VVyUdc56Ve-9aa7WN1">
     <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yfqohJ69pBAhKCFOBdLD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-1" value="usuario" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WN1AvgcFRPcrMHn4_S1V-3" value="id_usuarrio" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jh0eW-dTovCyy2cVe1m8" name="relacional">
+    <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
