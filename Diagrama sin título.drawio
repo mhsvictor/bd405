@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T14:15:50.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="pjA084PsC2WPEN4zgRiF" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-27T14:49:59.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="ANvxSmkd42yPajjogMO_" version="21.1.1" type="github" pages="2">
   <diagram name="enntidad relacion" id="T_VVyUdc56Ve-9aa7WN1">
     <mxGraphModel dx="2171" dy="1480" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" background="#E8FFFD" math="0" shadow="1">
       <root>
@@ -275,6 +275,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jymrLDFbb7D7SkRWuQ9a-1" value="usuario" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jymrLDFbb7D7SkRWuQ9a-2" value="id_usuario&lt;br&gt;telefono&lt;br&gt;email&lt;br&gt;pasword&lt;br&gt;id_plantel&lt;br&gt;id_tusuario&lt;br&gt;nombre&amp;nbsp;&lt;br&gt;amaterno&lt;br&gt;apaternho" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;" vertex="1" parent="jymrLDFbb7D7SkRWuQ9a-1">
+          <mxGeometry y="50" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jymrLDFbb7D7SkRWuQ9a-3" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jymrLDFbb7D7SkRWuQ9a-4" value="id_plantel&lt;br&gt;clave&lt;br&gt;direccion&lt;br&gt;telefono_plantel&lt;br&gt;email_plantel&lt;br&gt;nombre _plantel&lt;br&gt;id_municipio" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;" vertex="1" parent="jymrLDFbb7D7SkRWuQ9a-3">
+          <mxGeometry y="50" width="160" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
